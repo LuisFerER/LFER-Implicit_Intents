@@ -1,4 +1,4 @@
-package com.example.implicitintents;
+package com.example.ImplicitIntentsHomework;
 
 import org.junit.Test;
 
