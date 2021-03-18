@@ -1,4 +1,4 @@
-package com.example.ImplicitIntentsHomework;
+package com.example.ImplicitIntents;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ShareCompat;
